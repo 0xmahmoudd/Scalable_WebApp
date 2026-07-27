@@ -34,7 +34,7 @@ Deploy a production-ready **ASP.NET Core REST API** on AWS using **EC2 Auto Scal
 
 # Architecture Diagram
 
-![Architecture Diagram](mock_apis_arch.png)
+![Architecture Diagram](mock_apis_arch.svg)
 ---
 
 # Request Flow
